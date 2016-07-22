@@ -2,6 +2,7 @@
 
 A collection of Philadephia establishments with names in the form "$(A thing) & $(Another thing)." Candidates do not include peoples' names, such as "Smith & Wesson," or descriptors such as "Tommy's Bar & Grill."
 
+- Bait & Switch
 - Bank & Bourbon
 - Boot & Saddle
 - Bourbon & Branch
